@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My Profile"
+title:  "My Hobbies"
 date:   2023-01-21 21:10:00 +0700
 categories: post
 ---
